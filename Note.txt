@@ -2,3 +2,4 @@ This note is for learning Git.
 
 +added
 1
+2
