@@ -1,9 +1,15 @@
 This note is for learning Git.
 
 +added
+<<<<<<< HEAD
 1
 
 3
 
 2
 
+=======
+1
+>>>>>>> parent of 9927c05... 3
+
+modified.master
